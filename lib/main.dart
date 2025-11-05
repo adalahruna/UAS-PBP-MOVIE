@@ -7,7 +7,7 @@ import 'app/core/utils/app_routes.dart';
 // Import Firebase
 import 'package:firebase_core/firebase_core.dart';
 // import 'package:firebase_auth/firebase_auth.dart'; // (Belum kita pakai di sini)
-import 'firebase_options.dart'; // File yang digenerasi FlutterFire
+//import 'firebase_options.dart'; // File yang digenerasi FlutterFire
 
 void main() async {
   // Pastikan Firebase terinisialisasi
